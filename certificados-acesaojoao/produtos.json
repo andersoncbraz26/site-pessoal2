@@ -1,0 +1,244 @@
+{
+  "fonte": "https://acesaojoao.com.br/web/certificados/",
+  "extraidoEm": "2026-09-30",
+  "categorias": [
+    {
+      "categoria": "Certificados para Pessoa Física (e-CPF)",
+      "observacao": "Com PIX ou Cartão a entrega é na hora - sem agendamento (somente para certificados A1 ou A3 sem mídia).",
+      "produtos": [
+        {
+          "nome": "e-CPF A1",
+          "subtitulo": "computador",
+          "preco": "R$ 128,96",
+          "imagem": "imagens/ECPFA1104M.png",
+          "destaque": "MELHOR PREÇO",
+          "descricao": [
+            "O Certificado Digital é emitido no computador e fica armazenado no navegador",
+            "É possível ser utilizado em mais de um PC",
+            "Assine documentos com validade jurídica",
+            "Acesse a Receita Federal do Brasil (RFB)",
+            "Assine a Declaração do Imposto de Renda",
+            "Acesse o eSocial",
+            "Acesse o Conectividade Social"
+          ],
+          "obs": "(Armazenado no PC)"
+        },
+        {
+          "nome": "e-CPF A3",
+          "subtitulo": "com smartcard",
+          "preco": "R$ 233,67",
+          "imagem": "imagens/ECPFA3301M.png",
+          "descricao": [
+            "O Certificado é armazenado em cartão criptografado Smartcard Certisign",
+            "Não acompanha leitor de smartcard (vendido a parte)",
+            "Use em mais de um PC",
+            "Assine documentos com validade jurídica",
+            "Acesse a Receita Federal do Brasil (RFB)",
+            "Assine o Imposto de Renda",
+            "Acesse o eSocial e Conectividade Social"
+          ],
+          "obs": "(Inclui cartão smartcard)"
+        },
+        {
+          "nome": "e-CPF A3",
+          "subtitulo": "com token",
+          "preco": "R$ 350,54",
+          "imagem": "imagens/ECPFA3303M.png",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia criptográfica (token)",
+            "É possível usar o token em mais de um PC",
+            "Assine documentos com validade jurídica",
+            "Acesse a Receita Federal do Brasil (RFB)",
+            "Assine a Declaração de Imposto de Renda",
+            "Acesse o eSocial",
+            "Acesse o Conectividade Social"
+          ],
+          "obs": "(Inclui token)"
+        },
+        {
+          "nome": "e-CPF A3",
+          "subtitulo": "só certificado",
+          "preco": "R$ 214,97",
+          "imagem": "imagens/ECPFA3300M.png",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia criptográfica (token ou cartão)",
+            "Não acompanha mídia física (token ou cartão)",
+            "Use em mais de um PC",
+            "Assine documentos com validade jurídica",
+            "Acesse a Receita Federal do Brasil (RFB)",
+            "Assine o Imposto de Renda",
+            "Acesse o eSocial e Conectividade Social"
+          ],
+          "obs": "(Não inclui mídia física)"
+        }
+      ]
+    },
+    {
+      "categoria": "Certificados para Pessoa Jurídica (e-CNPJ)",
+      "observacao": "Antes de adquirir seu certificado, cheque a compatibilidade dele com seu sistema emissor de Nota Fiscal (NF-e ou NFC-e).",
+      "produtos": [
+        {
+          "nome": "e-CNPJ A1 PME",
+          "subtitulo": "12 MESES",
+          "preco": "R$ 160,53",
+          "imagem": "imagens/ECNPJA1104M.png",
+          "destaque": "MELHOR PREÇO",
+          "descricao": [
+            "O Certificado Digital é emitido no computador e fica armazenado no navegador",
+            "É possível ser utilizado em mais de um PC",
+            "Assine documentos com validade jurídica",
+            "Acesse o Conectividade Social",
+            "Emitir a Nota Fiscal Eletrônica (NF-e)",
+            "Nota Fiscal de Consumidor Eletrônica (NFC-e)"
+          ],
+          "obs": "(Armazenado no PC)"
+        },
+        {
+          "nome": "e-CNPJ A3 PME",
+          "subtitulo": "36 MESES",
+          "preco": "R$ 224,91",
+          "imagem": "imagens/PEA3300M.png",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia do cliente (cartão ou token)",
+            "Requer mídia (token ou cartão)",
+            "Assine documentos com validade jurídica",
+            "Acesse o Conectividade Social",
+            "Emitir a Nota Fiscal Eletrônica (NF-e)",
+            "Nota Fiscal de Consumidor Eletrônica (NFC-e)"
+          ],
+          "obs": "(Não inclui mídia física)"
+        },
+        {
+          "nome": "e-CNPJ A1",
+          "subtitulo": "No Computador - 12 MESES",
+          "preco": "R$ 189,68",
+          "imagem": "imagens/ECNPJA1104M.png",
+          "descricao": [
+            "O Certificado Digital é emitido no computador e fica armazenado no navegador",
+            "É possível ser utilizado em mais de um PC",
+            "Assine documentos com validade jurídica",
+            "Acessar Conectividade Social",
+            "Emitir a Nota Fiscal Eletrônica (NF-e)",
+            "Nota Fiscal de Consumidor Eletrônica (NFC-e)"
+          ],
+          "obs": "(Armazenado no PC)"
+        },
+        {
+          "nome": "e-CNPJ A3",
+          "subtitulo": "Somente Certificado - 36 MESES",
+          "preco": "R$ 299,12",
+          "imagem": "imagens/ECNPJA3300Multipla.png",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia do cliente (cartão ou token)",
+            "Requer mídia (token ou cartão)",
+            "Assine documentos com validade jurídica",
+            "Emitir a Nota Fiscal Eletrônica (NF-e)",
+            "Nota Fiscal de Consumidor Eletrônica (NFC-e)"
+          ],
+          "obs": "(Não inclui mídia física)"
+        },
+        {
+          "nome": "e-CNPJ A3",
+          "subtitulo": "Cartão SmartCard - 12 MESES",
+          "preco": "R$ 263,90",
+          "imagem": "imagens/ECNPJA3301M.png",
+          "descricao": [
+            "O Certificado é armazenado em cartão criptografado Smartcard Certisign",
+            "Não acompanha leitor de smartcard (vendido a parte)",
+            "É possível usar em mais de um PC",
+            "Assinar com validade jurídica",
+            "Acessar Conectividade Social",
+            "Emitir a Nota Fiscal Eletrônica (NF-e e NFC-e)"
+          ],
+          "obs": "(Inclui cartão smartcard)"
+        },
+        {
+          "nome": "e-CNPJ A3",
+          "subtitulo": "Cartão SmartCard - 36 MESES",
+          "preco": "R$ 322,49",
+          "imagem": "imagens/ECNPJA3301M.png",
+          "descricao": [
+            "O Certificado é armazenado em cartão criptografado Smartcard Certisign",
+            "Não acompanha leitor de smartcard (vendido a parte)",
+            "É possível usar em mais de um PC",
+            "Assinar com validade jurídica",
+            "Acessar Conectividade Social",
+            "Emitir a Nota Fiscal Eletrônica (NF-e e NFC-e)"
+          ],
+          "obs": "(Inclui cartão smartcard)"
+        },
+        {
+          "nome": "e-CNPJ A3",
+          "subtitulo": "Com Token incluso",
+          "preco": "R$ 395,90",
+          "imagem": "imagens/ECNPJA3303M.png",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia criptográfica, no caso, token",
+            "É possível usar em mais de um PC",
+            "Assinar com validade jurídica",
+            "Acessar Conectividade Social",
+            "Emitir a Nota Fiscal Eletrônica (NF-e)",
+            "Nota Fiscal de Consumidor Eletrônica (NFC-e)"
+          ],
+          "obs": "(Inclui token)"
+        }
+      ]
+    },
+    {
+      "categoria": "Certificados AC OAB (e-CPF)",
+      "observacao": "O Certificado Digital OAB é um e-CPF exclusivo para os profissionais regularmente inscritos na Ordem dos Advogados do Brasil (OAB).",
+      "produtos": [
+        {
+          "nome": "e-CPF A3",
+          "subtitulo": "só certificado - 3 anos",
+          "preco": "R$ 85,00",
+          "imagem": "imagens/OABA3303M.png",
+          "destaque": "MELHOR PREÇO",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia criptográfica, no caso, token",
+            "Não acompanha token",
+            "Assinar com validade jurídica",
+            "Realizar peticionamento eletrônico",
+            "Assinar pareceres e procurações",
+            "Assinar Declaração do Imposto de Renda"
+          ],
+          "obs": "(Não inclui mídia física)"
+        },
+        {
+          "nome": "e-CPF A3",
+          "subtitulo": "com token - 3 anos",
+          "preco": "R$ 108,50",
+          "imagem": "imagens/OABA3300M-1.png",
+          "descricao": [
+            "O Certificado Digital é emitido e armazenado em uma mídia criptográfica, no caso, novo token que acompanha pedido",
+            "Acompanha um novo token",
+            "Use em mais de um PC",
+            "Realizar peticionamento eletrônico",
+            "Assinar pareceres e procurações",
+            "Assinar Declaração do Imposto de Renda"
+          ],
+          "obs": "(Inclui token)"
+        }
+      ]
+    }
+  ],
+  "contato": {
+    "whatsapp": true,
+    "telefone": "(19) 3634-4315",
+    "horarioAtendimento": "segunda a sexta, das 8h30 às 18h (exceto feriados)"
+  },
+  "imagensFormasPagamento": [
+    "imagens/pagtoPix.png",
+    "imagens/pagtoHyper.png",
+    "imagens/pagto6.png",
+    "imagens/pagto5.png",
+    "imagens/pagto4.png",
+    "imagens/pagto3.png",
+    "imagens/pagto2.png",
+    "imagens/pagto1.png"
+  ],
+  "imagensDiversas": {
+    "logo": "imagens/Principal_Positiva@4x-300x64-1.png",
+    "divisor": "imagens/divisor-1.jpg"
+  }
+}
