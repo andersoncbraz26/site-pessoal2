@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  var NUMERO_WHATSAPP = '551936344315';
+  var NUMERO_WHATSAPP = '5519992933303';
   var MENSAGEM_PADRAO = 'Olá! Vim pelo site da ACE São João e gostaria de saber mais.';
 
   // Monta o link do WhatsApp com mensagem pré-preenchida por serviço,

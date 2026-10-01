@@ -149,7 +149,8 @@ Para os demais serviços (Acerta, Define, SRC, Saúde, Cartão Alimentação, As
 
 ## 6. Contatos
 
-- **Telefone geral / WhatsApp comercial:** (19) 3634-4315
+- **Telefone geral (ligações):** (19) 3634-4315
+- **WhatsApp usado no site:** (19) 99293-3303 — https://wa.me/5519992933303
 - **WhatsApp (Locação de Salas / SRC):** (19) 3634-4302 — https://wa.me/551936344302
 - **Telefone institucional:** (19) 3634-4300 — tel:551936344300
 
